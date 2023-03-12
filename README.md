@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @douglas-danso
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning python for data science
+- 👀 I’m interested in developing software with python
+- 🌱 I’m currently learning web development with django
+
 
 
 <!---
